@@ -33,7 +33,7 @@ import {
 } from "lucide-react";
 
 // Custom WhatsApp Icon - lightweight SVG to avoid extra deps
-const WhatsAppIcon = ({ size = 20, className = "" }: { size?: number; className?: string }) => (
+const WhatsAppIcon = ({ size = 20, className = "" }) => (
   <svg width={size} height={size} viewBox="0 0 24 24" fill="currentColor" className={className} xmlns="http://www.w3.org/2000/svg">
     <path d="M19.05 4.91A9.816 9.816 0 0 0 12.04 2a9.82 9.82 0 0 0-8.5 14.86L2 22l5.3-1.39a9.82 9.82 0 0 0 4.74 1.21h.01a9.82 9.82 0 0 0 6.9-2.82 9.82 9.82 0 0 0 0-13.89Zm-7.01 15.2a8.18 8.18 0 0 1-4.18-1.14l-.3-.18-3.15.82.84-3.07-.2-.31a8.18 8.18 0 0 1-1.27-4.4 8.2 8.2 0 0 1 13.89-5.84 8.2 8.2 0 0 1-5.93 13.12Zm4.58-6.14c-.25-.13-1.48-.73-1.71-.81-.23-.09-.4-.13-.57.12-.16.25-.65.81-.8.98-.15.17-.29.19-.54.06-.25-.12-1.05-.39-2-1.24-.74-.66-1.24-1.47-1.38-1.72-.14-.25-.01-.39.11-.51.11-.11.25-.29.37-.44.12-.14.16-.25.25-.41.08-.17.04-.31-.02-.44-.06-.12-.57-1.38-.79-1.89-.2-.49-.42-.42-.57-.43h-.49c-.17 0-.44.06-.67.31-.23.25-.88.86-.88 2.1s.9 2.44 1.02 2.61c.13.17 1.77 2.7 4.3 3.78.6.26 1.07.41 1.43.53.6.19 1.15.16 1.58.1.48-.07 1.48-.6 1.69-1.19.21-.58.21-1.08.14-1.19-.06-.1-.23-.16-.48-.29Z"/>
   </svg>
@@ -42,9 +42,9 @@ const WhatsAppIcon = ({ size = 20, className = "" }: { size?: number; className?
 export default function App() {
   const [dark, setDark] = useState(false);
   const [mobileMenu, setMobileMenu] = useState(false);
-  const [toast, setToast] = useState<string | null>(null);
+  const [toast, setToast] = useState(null);
   const [form, setForm] = useState({ name: "", email: "", org: "", interest: "", message: "" });
-  const [activeId, setActiveId] = useState<string>("home");
+  const [activeId, setActiveId] = useState("home");
 
   const WHATSAPP_NUMBER = "237621607297";
 
@@ -103,7 +103,7 @@ export default function App() {
   };
 
   // fade in observer
-  const observerRef = useRef<IntersectionObserver | null>(null);
+  const observerRef = useRef(null);
   useEffect(() => {
     observerRef.current = new IntersectionObserver(
       (entries) => {
