@@ -1,0 +1,8 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+:root{ --green:#0f2e1f; }
+body{ font-family: Inter, system-ui, -apple-system, sans-serif; }
+.reveal{ opacity:0; transform: translateY(18px); transition: all .7s cubic-bezier(.2,.8,.2,1); }
+.reveal.in-view{ opacity:1; transform: translateY(0); }
