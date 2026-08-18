@@ -1,0 +1,259 @@
+Business and Technology Consultant skilled in software engineering, business analysis, and AI/data integration. I design scalable
+web applications and cloud systems that streamline operations, reduce waste, and empower communities. Bilingual
+(English/French), I deliver sustainable, impact‑driven solutions that align technical excellence with social responsibility, helping
+organizations grow responsibly in a digital future.
+GCE ORDINARYLEVEL From September 2011 to June 2012
+Holy Infant High School, Yaounde, CE, Cameroon
+Passed in 9 papers out of 10
+GCE ADVANCE LEVEL From September 2014 to June 2015
+ST. PAUL HIGH SCHOOL, Bojongo, Buea, SW, Cameroon
+Passed in 4 papers out of 5
+BSc. Computer Science From September 2014 to June 2017
+University of Yaounde I, Yaounde, CE, Cameroon
+Computer Programming
+Algorithmic Theory
+Mathematics
+Basic Electricity and Electronics
+BSc. Economics Since September 2015
+University Of Yaounde II, Universite Yaounde II, CE, Cameroon
+Microecocomic Theory
+Macroeconomic Theory
+Mathematics and Statistics
+Fundamentals of business management
+M.Sc. Computer Science From October 2019 to October 2022
+University Of Buea, Buea, SW, Cameroon
+Understanding of programming concepts and software engineering principles.
+EDUCATION
+La t eh LARRY-COLLINS AKA
+Software Engineer | Business Consultuant and Analyst | Cloud and Data Systems
+and AI Integration
+clatehlarry@gmail.com
+Pont Emana, Yaounde, Cameroon
+Date of birth 04/04/1996
+https://github.com/LarryCollinsAka
+Cameroonian
+Open to remote work
+Remote - Middle East - Asia - Europe - America - Africa - Cameroon
++237 621607297
+Engaged (with child)
+
+SAP Business Analyst Professional From August 2025 to January 2026
+MTN Career Academy, Coursera - Online
+Foundations of Business Analysis
+Requirements Gathering and Documentation
+Business Process Modeling and Analysis
+Strategic Analysis and Solution Design
+IBM Data Analyst Professional Certificate Since August 2025
+IBM Skills Network, Coursera - Online
+Analytics With Excel and IBM Cognos
+SQL and Python for Data Analysis
+IBM Full Stack Developer Software Developer Professional CertificateSince August 2025
+IBM Skills Network, Coursera - Online
+DevOps and DevOps culture
+Programing with Python
+AI and API
+Google Advanced Data Analyst Profesional Certificate Since August 2025
+MTN Career Academy, Coursera - Online
+Overview of data analytics and methodology
+Python Programming
+Fundamentals of Tableau and others..
+Stakeholder management and engagement
+Machine Learning
+Project work
+MIT Course Certification in Applied Economics From January 2026 to April 2026
+Massashusets Institute of Technology, MITx - Online
+Supply and Demand
+Consumer Choice
+Applying Consumer Theory
+Firms, Production, and Costs
+Competitive Firms and Markets
+Applying the Competitive Model and Monopolies
+Oligopoly and Monopolistic Competition
+International Trade and Uncertainty
+Capital Markets
+Equity
+Behavioral Economics and Health Economics
+EDUCATION
+EDUCATION
+EDUCATION
+
+Business Consultant and Analyst From August 2024 to February 2026
+MCA - Cameroon, Yaounde, Bastos
+Key Project: Millennium Challenge Account – Cameroon Website
+Requirements Gathering & Documentation: Collaborated with government
+stakeholders to capture and formalize business and technical requirements for the MCACameroon website, ensuring alignment with agency objectives.
+Stakeholder Engagement: Facilitated workshops and interviews with internal teams to
+translate user needs into clear specifications for developers and IT staff.
+In-House Hosting Strategy: Recommended and supported the transition to in-house
+hosting, addressing security, compliance, and data sovereignty concerns.
+Networking & Infrastructure Setup: Designed and advised on LAN configuration,
+static IP assignment, and firewall policies to support reliable hosting and internal access.
+Process Optimization: Streamlined workflows between IT, communications, and
+operations teams to ensure efficient content management and system updates.
+Risk & Sustainability Considerations: Identified risks related to external hosting
+dependency and proposed sustainable in-house solutions that reduce costs, improve control,
+and enhance resilience.
+Outcome: Delivered a requirements framework and hosting strategy that improved system
+reliability, safeguarded sensitive data, and empowered MCA-Cameroon with long-term
+operational independence.
+Web Development Trainer From November 2022 to September 2024
+Mountain Tech Academy, Buea, sw, Cameroon
+Teaching web and mobile application development concepts, HTML for web page markup,
+CSS for styling and JavaScript for interactivity.
+Introduce Programming and frameworks such as;
+Laravel
+NextJs
+Flutter...
+Teacher From October 2016 to June 2021
+NEW CENTURY INSTUTUTE OF LEARNING, Yaounde, CE, Cameroon
+Taught computer science and mathematics to both first cycle and second cycle students
+Developed a report card printing system with visual basic
+Enhanced student's understanding by by making notes in points
+Competence Based Approach methodology in teaching
+Basic web development concepts and applications
+Teacher From September 2016 to June 2021
+Christ The King College, Ayunga, Yaounde, CE, Cameroon
+Teaching Pure Mathematics and Further Pure mathematics to secondary school students
+Teaching Computer Science and Programming
+Customizing curriculum for individual students based on level of understanding
+and more
+WORK EXPERIENCE
+WORK EXPERIENCE
+WORK EXPERIENCE
+WORK EXPERIENCE
+
+Software Developer From October 2022 to February 2024
+GEO EXPERTS ET ASSOSIES, Yaounde, CE, Cameroon
+Helped to increase the accuracy of the reporting systems by 4%
+Developed Api for configuration management tools to track server settings for performance
+testing which saved 25% of initial machine setup
+Optimized customer resources and reduce turnaround time by 20%
+Developed Restful Api for Geo-location with google maps
+Performed root cause analysis for more than 10 issues to identify bugs and rolled out fixes to
+production within 24 hours
+Lead Software Engineer Since June 2024
+Fortune Techies, Yaounde, CE, Cameroon
+Successfully converted whole projects from python 2 to 3.8.0
+Building top notch web apps with Laravel
+PHP and JavaScript frameworks outsourcing
+Scripted unique test plans, test scripts and processes to remove previously known
+redundancy by 40% and ensured predictable outcomes
+Developed a desktop application to automate database testing process, improved efficiency
+by 65%
+Designed and developed reusable software components which used in 3 different project
+with reducing development effort by 50%
+and more
+Full Stack Developer From August 2018 to April 2019
+e-pocrate, Remote - France
+My main Mission here was to;
+Build an online medical application using Angular, Nodejs and MongoDb
+Design and implement backend architecture
+Integrate payment gateways (PayPal and Stripe)
+Partnered with 2 developers from Senegal to build a RESTful API for payments.
+Jitsi for audio and video calls integrated into the app.
+Software Developer From January 2023 to March 2023
+IBMGIM, Yaounde, CE, Cameroon
+Worked on the payments gateway (MTN Mobile Money and Orange Money) to save time
+and improve cash flow, through the development of modern, responsive customer
+experiences.
+Mentored 3 junior front-end developers on the team on React, and
+documented best practices within the organization.
+Worked closely with the product team to re-configure the processing of invoices, saving
+customers time.
+Teacher From September 2015 to June 2021
+William Booth College, Yaounde, CE, Cameroon
+Teaching Mathematics, Physics and Computer Science
+WORK EXPERIENCE
+WORK EXPERIENCE
+WORK EXPERIENCE
+WORK EXPERIENCE
+
+English
+French
+Adaptability
+I have the ability to adapt to various business environments , I quickly analyze client needs and
+adjust strategies to deliver tailored solutions. Whether working with startups, SMEs, or global
+enterprises, I thrive in dynamic environments, balancing technical precision with business
+insight. My flexibility ensures sustainable, future‑ready outcomes aligned with evolving
+challenges.
+Tech for Good
+I am dedicated to leveraging technology for social impact, inclusivity, and community
+empowerment.
+Business Insight
+Ability to analyze processes, optimize workflows, and align technology with strategic business
+goals.
+Sustainability Focus
+Committed to building resilient, eco‑friendly systems that reduce waste and support long‑term
+growth.
+Educational Strength
+I have experience in teaching and creating accessible learning materials for various students and
+for AI/data literacy.
+Graphics and Design
+Adobe Photoshop
+Adobe Illustrator
+Adobe Indesign
+Inkscape
+AI & ML Tools
+TensorFlow, Scikit‑Learn, Keras, IBM Watsonx, Nvidia Nim
+Data Tools
+Excel, Tableau, SPSS, Power BI
+Database Management
+MySQL, PostgreSQL, MongoDB
+Technical Writing
+Delivering clear documentation and bilingual content (English/French).
+Development Frameworks and Libraries
+Laravel
+NextJs
+ReactJs
+Programming
+C/C++
+Java
+PHP
+Javascipt
+Python
+Business Analysis
+Translating complex processes into actionable strategies
+LANGUAGES
+ASSETS
+ASSETS
+ASSETS
+COMPUTER SKILLS
+COMPUTER SKILLS
+SKILLS
+SKILLS
+
+Bilingual Communication
+I am fluent in English and French, ensuring clear collaboration with global clients.
+Microsoft Office Suit
+MS Word
+MS Excel
+MS PowerPoint
+MS Access
+MS Publisher
+Collaboration Tools
+GitHub, Jira, Asana
+Mr. Ngwa Edwin
+Head Of Department Computer Science, Divine Bilingual School Complex
++237 6 71 11 00 80
+Mr. Orjong Francis
+Educator and Examiner, New Century Schools
++237 6 77 20 17 02
+Sports and Workouts
+Travel and Cuisine
+ASSETS
+COMPUTER SKILLS
+COMPUTER SKILLS
+REFERENCES
+INTERESTS
+
+[PDF page 1 image attached. Read this image directly to extract content.]
+
+[PDF page 2 image attached. Read this image directly to extract content.]
+
+[PDF page 3 image attached. Read this image directly to extract content.]
+
+[PDF page 4 image attached. Read this image directly to extract content.]
+
+[PDF page 5 image attached. Read this image directly to extract content.]
+
+[PDF page 6 image attached. Read this image directly to extract content.]
